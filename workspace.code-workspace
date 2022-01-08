@@ -1,0 +1,13 @@
+{
+  "folders": [
+	{
+		"path": "."
+	},
+	{
+		"path": "../galsRepo/js_advanced_72/carApp"
+	}
+],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "pokomanData"
+  }
+}
